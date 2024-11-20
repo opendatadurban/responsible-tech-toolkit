@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (5) Sustainable Technology
 
 ### **Minimize your eco footprint**

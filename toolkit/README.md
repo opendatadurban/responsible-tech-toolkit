@@ -1,11 +1,21 @@
 ---
-description: >-
-  Implement Responsible Tech practices at all Stages of Product Development with
-  the OCL Responsible Tech Toolkit.
 icon: toolbox
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Toolkit
+
+Implement Responsible Tech practices at all Stages of Product Development with the OCL Responsible Tech Toolkit.
 
 [**(1) Project Initiation**](1-project-initiation.md)
 

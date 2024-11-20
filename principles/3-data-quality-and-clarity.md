@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (3) Data Quality and Clarity
 
 ### **Reliable data**

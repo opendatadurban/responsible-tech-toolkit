@@ -1,6 +1,19 @@
-# (1) Case for Responsible Tech
+---
+icon: sitemap
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Multi-select: Case studies, Use case, Why Summary: Find out how ‘irresponsible tech’ in cities can worsen social inequality, erode trust, and waste money. Examples include smart meters mistrust, data misuse in informal settlements, and underused open data portals. Learn more about how public input can be helpful.
+# (1) Case for Responsible Tech
 
 ## **The Risk of Irresponsible Technology**
 
@@ -8,7 +21,9 @@ The trend of digitising government services and infrastructure offers potential 
 
 ### **Problem/Risk Overview**
 
-The core of the problem lies in the mismatch between the intentions of technology deployments and their real-world impacts, often exacerbated by misunderstanding the potential uses of the technology, or issues such as data gaps, privacy issues, and the deployment of poorly designed or inadequately tested technologies. These issues can lead to suboptimal urban services and planning, exacerbate social inequalities, and erode public trust in local governments. The risks associated with irresponsible technology deployment in urban development and municipal governance are multifaceted. They include the potential for exacerbating existing social inequalities, eroding public trust in government, and wasting public resources on technologies that do not meet community needs or respect community rights. Additionally, the deployment of technology without adequate consideration of privacy, security, and ethical implications can lead to unintended harm, particularly for vulnerable populations.
+The core of the problem lies in the mismatch between the intentions of technology deployments and their real-world impacts, often exacerbated by misunderstanding the potential uses of the technology, or issues such as data gaps, privacy issues, and the deployment of poorly designed or inadequately tested technologies. These issues can lead to suboptimal urban services and planning, exacerbate social inequalities, and erode public trust in local governments.&#x20;
+
+The risks associated with irresponsible technology deployment in urban development and municipal governance are multifaceted. They include the potential for exacerbating existing social inequalities, eroding public trust in government, and wasting public resources on technologies that do not meet community needs or respect community rights. Additionally, the deployment of technology without adequate consideration of privacy, security, and ethical implications can lead to unintended harm, particularly for vulnerable populations.
 
 ### **Specific Use-case Examples:**
 
@@ -18,13 +33,13 @@ The core of the problem lies in the mismatch between the intentions of technolog
 *   **Data Collection in Informal Settlements**
 
     While governments hold dual mandates for servicing informal settlements, and protecting land, the collection of private data is done with consented uses. The collection of data on residents of informal settlements, ostensibly for the purpose of improving service delivery planning, presents a stark example of how data can be misused. When such data is also employed to plan evictions, it reveals an ethical breach. This dual use of data collection underscores the need for transparency, ethical guidelines, community consent and grievance/recourse mechanisms in data sharing and associated urban planning processes.
-*   **Underutilized Open Data Portals**
+*   **Underutilised Open Data Portals**
 
     The significant investment in open data portals and dashboards, without a clear understanding of their usage or return on investment, highlights another facet of irresponsible technology deployment. While these platforms have the potential to enhance transparency and citizen engagement, their effectiveness is limited if they are not widely used or if the data they provide does not meet the needs of the community. This example points to the necessity of aligning technological investments with actual user needs - with implications deeper into the data production, sharing and collaboration culture of the organisation.
 
     *   **Case study: Sidewalk Labs in Toronto**
 
-        [Sidewalk Labs](https://en.wikipedia.org/wiki/Sidewalk\_Labs), a Google affiliate, proposed a high-tech urban development in Toronto that raised significant privacy and data governance concerns among citizens and privacy advocates. The extensive public backlash and feedback led to a more transparent dialogue about data collection, usage, and governance. The project ultimately was abandoned, but the discourse set a precedent for how community feedback can influence large-scale urban tech projects, emphasizing the need for privacy protections and public participation in planning.
+        [Sidewalk Labs](https://en.wikipedia.org/wiki/Sidewalk\_Labs), a Google affiliate, proposed a high-tech urban development in Toronto that raised significant privacy and data governance concerns among citizens and privacy advocates. The extensive public backlash and feedback led to a more transparent dialogue about data collection, usage, and governance. The project ultimately was abandoned, but the discourse set a precedent for how community feedback can influence large-scale urban tech projects, emphasising the need for privacy protections and public participation in planning.
 
 ### More examples:
 
@@ -37,7 +52,7 @@ The core of the problem lies in the mismatch between the intentions of technolog
         The city of Oakland, California, established a [Privacy Advisory Commission](https://www.oaklandca.gov/boards-commissions/privacy-advisory-board) to review city proposals involving surveillance technology. This commission, which includes community members, has the power to recommend privacy-protective policies and has led to the adoption of stricter guidelines for the use of surveillance tools by city agencies. This model demonstrates the effectiveness of involving community members directly in oversight roles.
 *   **Predictive Policing Tools**
 
-    Various cities have experimented with predictive policing technologies, which use data analytics to predict where crimes are likely to occur. In Cape Town, an example of this is the “shot spotter” program. While intended to make law enforcement more efficient and responsive, these tools have been criticized for their costs, and for reinforcing biases and leading to increased surveillance and policing of marginalized communities. Instances in cities like Los Angeles and Chicago have sparked debates about the ethical use of data in law enforcement and the need for transparency and accountability.
+    Various cities have experimented with predictive policing technologies, which use data analytics to predict where crimes are likely to occur. In Cape Town, an example of this is the “shot spotter” program. While intended to make law enforcement more efficient and responsive, these tools have been criticised for their costs, and for reinforcing biases and leading to increased surveillance and policing of marginalised communities. Instances in cities like Los Angeles and Chicago have sparked debates about the ethical use of data in law enforcement and the need for transparency and accountability.
 *   **Automated Decision Systems in Social Services**
 
     In some jurisdictions, automated decision-making systems have been used to allocate social services, such as housing assistance or child welfare interventions. Cases have emerged where these systems perpetuate biases or errors, leading to wrongful denials of services or benefits. For example, the Allegheny Family Screening Tool used in Pittsburgh to predict risk in child welfare cases raised concerns about fairness and the opacity of the decision-making process.
@@ -49,12 +64,12 @@ The core of the problem lies in the mismatch between the intentions of technolog
 
         Both cities have [launched public algorithm registers](https://ai-regulation.com/amsterdam-and-helsinki-launch-algorithm-and-ai-register/) that allow citizens to see how algorithms are used in municipal services. These registers include information on the algorithm’s purpose, the data it uses, and the control mechanisms in place to ensure fairness and transparency. This initiative, driven by public demand for transparency, helps demystify government use of algorithms and fosters trust.
 
-        Helsinki’s register
+        Helsinki’s register <mark style="color:red;">(please find this link)</mark>
 
         [Amsterdam’s register](https://www.notion.so/Gain-50-more-users-545a1ca8154d40809662c74d46027c09?pvs=21)
 *   **Environmental Monitoring and Land Use**
 
-    Technologies for environmental monitoring and land use planning, such as satellite imagery and AI algorithms, can sometimes lead to unintended consequences. For instance, in developing countries, such technologies have been used to identify illegal constructions or encroachments, leading to evictions without considering the socio-economic impacts on affected communities, leading to further marginalization and at times subsequent land occupations in even less suitable locations. A key lesson is that these tools should not replace local engagement.
+    Technologies for environmental monitoring and land use planning, such as satellite imagery and AI algorithms, can sometimes lead to unintended consequences. For instance, in developing countries, such technologies have been used to identify illegal constructions or encroachments, leading to evictions without considering the socio-economic impacts on affected communities, leading to further marginalisation and at times subsequent land occupations in even less suitable locations. A key lesson is that these tools should not replace local engagement.
 *   **Transportation and Mobility Apps**
 
     Ride-sharing and mobility apps have transformed urban transportation, but not without issues. In cities around the world, the rapid adoption of these platforms has led to traffic congestion, reduced use of public transportation, and conflicts with local taxi services. Additionally, the “gig economy” model used by these platforms has raised questions about labour rights and the economic sustainability of urban transportation systems.

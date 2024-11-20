@@ -1,3 +1,7 @@
+---
+icon: toolbox
+---
+
 # (5) Product Creation
 
 Multi-select: (3) Design and Development

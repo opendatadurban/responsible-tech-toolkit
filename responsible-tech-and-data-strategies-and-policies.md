@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Responsible Tech and Data Strategies & Policies
 
 Government Data Strategies and Policies, particularly at the municipal level, play a crucial role in shaping how technology and data are utilized to serve the public effectively and ethically. By embedding principles of responsibility into these strategies and policies, municipalities can ensure that technology serves as a tool for public good, enhancing services while safeguarding citizens' rights and data and the digital autonomy of the government on behalf of the citizens is protected.
@@ -49,5 +63,3 @@ Government Data Strategies and Policies, particularly at the municipal level, pl
 
 * **Amsterdam and Helsinki’s AI Registers:** These cities have created [public-facing registers](https://ai-regulation.com/amsterdam-and-helsinki-launch-algorithm-and-ai-register/) that detail their use of AI systems, including the system’s purpose, data used, and the team responsible. This transparency initiative helps in oversight and public trust.
 * **Toronto’s Digital Infrastructure Strategic Framework:** [Toronto’s plan](https://www.notion.so/Online-survey-design-for-city-practitioners-ce5012ef10244eb2a8ce56db41464725?pvs=21) emphasizes equity, privacy, and transparency in the digital infrastructure, setting a precedent for responsible municipal data strategies.
-
-##

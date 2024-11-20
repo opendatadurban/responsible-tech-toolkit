@@ -1,3 +1,7 @@
+---
+icon: toolbox
+---
+
 # (2) Project Scoping
 
 #### Identifying project goals, deliverables, and success metrics.

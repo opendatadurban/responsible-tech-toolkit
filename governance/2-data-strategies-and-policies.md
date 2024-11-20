@@ -1,6 +1,19 @@
-# (2) Data Strategies and Policies
+---
+icon: sitemap
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Multi-select: Data Strategies and Policies Summary: Find out how to integrate Responsible Tech into data strategies & policies. How do governments prioritise citizen rights and ethical tech? What about security measures like data standards and regular audits? Learn about the role of rigorous testing and clear appeals processes to ensure responsible tech use.
+# (2) Data Strategies and Policies
 
 ## Integrating Responsible Tech in Data Strategies & Policies
 

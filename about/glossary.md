@@ -1,3 +1,7 @@
+---
+icon: table-layout
+---
+
 # Glossary
 
 .... definitions are available ... to gain precise understanding of specific terms.&#x20;

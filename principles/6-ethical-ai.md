@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (6) Ethical AI
 
 ### **Consider societal impact of AI**

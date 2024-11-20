@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (1) Stakeholder Engagement
 
 ### **Real-world impact through meaningful engagement**

@@ -13,7 +13,7 @@ _Intro paragraph about where to start_.
 
 And remember, “Memorable quote/adage/general truth”
 
-![https://www.notion.so/icons/forward\_lightgray.svg](https://www.notion.so/icons/forward\_lightgray.svg) \*\*Important aspect of the process\*\*
+<img src="https://www.notion.so/icons/forward_lightgray.svg" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Important aspect of the process**
 
 *   Key actions
 
@@ -21,7 +21,7 @@ And remember, “Memorable quote/adage/general truth”
 
     > Keyword for action followed by the paragraph sentences.
 
-![https://www.notion.so/icons/forward\_lightgray.svg](https://www.notion.so/icons/forward\_lightgray.svg) \*\*Important aspect of the process\*\*
+<img src="https://www.notion.so/icons/forward_lightgray.svg" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Important aspect of the process**
 
 *   Key actions
 

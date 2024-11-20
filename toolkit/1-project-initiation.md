@@ -1,6 +1,19 @@
-# (1) Project Initiation
+---
+icon: toolbox
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Multi-select: (1) Project Initiation
+# (1) Project Initiation
 
 ## **Responsible Tech Approach for Project Initiation**
 

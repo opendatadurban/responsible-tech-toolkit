@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (7) Responsibility & Oversight
 
 ## **Take responsibility: Accountable & oversight**

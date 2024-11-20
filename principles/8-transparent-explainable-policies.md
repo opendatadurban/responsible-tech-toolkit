@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (8) Transparent, explainable policies
 
 ## **Be clear, be open**

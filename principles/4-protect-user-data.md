@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (4) Protect User Data
 
 ### **Strong security and responsible data collection**

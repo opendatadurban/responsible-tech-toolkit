@@ -1,3 +1,18 @@
+---
+icon: sitemap
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # (4) Procuring Responsible Tech
 
 ## **Advancing Responsible Technology through Government Procurement**
@@ -45,4 +60,4 @@ Here are key legislative and technical recommendations to guide this transformat
         The city of Oakland, California, established a [Privacy Advisory Commission](https://www.oaklandca.gov/boards-commissions/privacy-advisory-board) to review city proposals involving surveillance technology. This commission, which includes community members, has the power to recommend privacy-protective policies and has led to the adoption of stricter guidelines for the use of surveillance tools by city agencies. This model demonstrates the effectiveness of involving community members directly in oversight roles.
 *   **Continuous Monitoring and Evaluation**
 
-    After procurement, implement continuous [monitoring and evaluation mechanisms](https://www.notion.so/MREL-2b99ff2b90224b94b3fee543efa03330?pvs=21) to assess the technology's impact over time. This should include feedback loops with users and stakeholders to identify any issues or areas for improvement, ensuring the technology continues to serve the public interest responsibly.
+    After procurement, implement continuous [monitoring and evaluation mechanisms](../toolkit/7-the-mrel-framework.md) to assess the technology's impact over time. This should include feedback loops with users and stakeholders to identify any issues or areas for improvement, ensuring the technology continues to serve the public interest responsibly.

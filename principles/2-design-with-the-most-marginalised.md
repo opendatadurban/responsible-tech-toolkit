@@ -1,3 +1,7 @@
+---
+icon: rainbow
+---
+
 # (2) Design with the Most Marginalised
 
 ### **Equity and Justice in Design**
