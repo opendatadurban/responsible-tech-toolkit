@@ -1,6 +1,11 @@
 ---
 icon: toolbox
+cover: ../.gitbook/assets/rtt-bg-initiate.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (1) Project Initiation
 
-## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Responsible Tech Approach for Project Initiation**
+## <img src="../.gitbook/assets/icon-w-initiate.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Responsible Tech Approach for Project Initiation**
 
 ### **Set-up Meeting with Partner**
 
