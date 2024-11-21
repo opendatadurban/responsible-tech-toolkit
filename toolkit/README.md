@@ -1,6 +1,11 @@
 ---
 icon: toolbox
+cover: ../.gitbook/assets/rtt-background-header.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

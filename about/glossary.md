@@ -1,5 +1,7 @@
 ---
 icon: table-layout
+cover: ../.gitbook/assets/rtt-background-header.png
+coverY: 0
 ---
 
 # Glossary

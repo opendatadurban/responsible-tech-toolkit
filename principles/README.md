@@ -1,5 +1,7 @@
 ---
 icon: rainbow
+cover: ../.gitbook/assets/rtt-background-header.png
+coverY: 0
 ---
 
 # Principles
