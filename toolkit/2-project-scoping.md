@@ -4,7 +4,7 @@ icon: toolbox
 
 # (2) Project Scoping
 
-#### Identifying project goals, deliverables, and success metrics.
+#### <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Identifying project goals, deliverables, and success metrics.
 
 Framework for Defining Context and Clear Problem Framing through Dystopian Future Use Cases:
 

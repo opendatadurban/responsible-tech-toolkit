@@ -1,10 +1,21 @@
 ---
 icon: rainbow
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # (6) Ethical AI
 
-### **Consider societal impact of AI**
+### <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Consider societal impact of AI**
 
 Use AI for positive outcomes while considering the potential societal implications.
 

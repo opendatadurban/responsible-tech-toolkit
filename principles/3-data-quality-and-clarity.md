@@ -1,10 +1,26 @@
 ---
 icon: rainbow
+cover: ../.gitbook/assets/rtt-bg-data.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # (3) Data Quality and Clarity
 
-### **Reliable data**
+### <img src="../.gitbook/assets/icon-w-data.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Reliable data**
 
 Protect users and promote trust by using and present accurate data in development and decision-making.
 

@@ -1,10 +1,21 @@
 ---
 icon: rainbow
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # (5) Sustainable Technology
 
-### **Minimize your eco footprint**
+### <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Minimize your eco footprint**
 
 Integrate resource management practices throughout your tech life-cycle that minimize environmental impact.
 

@@ -15,7 +15,7 @@ layout:
 
 # (1) Project Initiation
 
-## **Responsible Tech Approach for Project Initiation**
+## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Responsible Tech Approach for Project Initiation**
 
 ### **Set-up Meeting with Partner**
 

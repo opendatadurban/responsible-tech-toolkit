@@ -1,5 +1,16 @@
 ---
 icon: toolbox
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # (7) The MREL Framework
