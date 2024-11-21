@@ -1,22 +1,3 @@
----
-cover: .gitbook/assets/rtt-background-header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Responsible Tech Toolkit V1.0
 
 &#x20;The OCL **Responsible Tech Toolkit** aims to provide:
