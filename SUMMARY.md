@@ -29,7 +29,6 @@
   * [(2) Data Strategies and Policies](governance/2-data-strategies-and-policies.md)
   * [(3) Organisational Capacity](governance/3-organisational-capacity.md)
   * [(4) Procuring Responsible Tech](governance/4-procuring-responsible-tech.md)
-* [Template: Project Stages](template-project-stages.md)
 * [Building a Case for Responsible Tech](building-a-case-for-responsible-tech.md)
 * [Deployment](deployment.md)
 * [Design and Development](design-and-development.md)

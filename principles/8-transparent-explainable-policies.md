@@ -1,5 +1,7 @@
 ---
 icon: rainbow
+cover: ../.gitbook/assets/rtt-bg-policies.png
+coverY: 0
 ---
 
 # (8) Transparent, explainable policies
