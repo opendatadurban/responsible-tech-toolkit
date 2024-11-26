@@ -15,7 +15,7 @@ layout:
 
 # (6) Deployment
 
-## Finalising the project for a successful rollout
+## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Finalising the project for a successful rollout
 
 **Finalizing the project for launch and ensuring all elements are in place for a successful rollout**
 

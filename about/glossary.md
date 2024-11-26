@@ -2,9 +2,25 @@
 icon: table-layout
 cover: ../.gitbook/assets/rtt-background-header.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Glossary
+
+### <img src="../.gitbook/assets/icon-w-calendar.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line">
 
 .... definitions are available ... to gain precise understanding of specific terms.&#x20;
 

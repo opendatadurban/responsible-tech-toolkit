@@ -15,7 +15,7 @@ layout:
 
 # (4) Procuring Responsible Tech
 
-## **Advancing Responsible Technology through Government Procurement**
+## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Advancing Responsible Technology through Government Procurement**
 
 The [procurement of technology by governments](https://www.govtech.com/opinion/ethical-ai-procurement-requires-collaboration-accountability) is a critical process that directly impacts the efficacy and ethics of civic services and governance.
 

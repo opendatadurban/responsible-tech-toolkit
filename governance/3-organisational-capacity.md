@@ -15,7 +15,7 @@ layout:
 
 # (3) Organisational Capacity
 
-## Organisational Capacity for Responsible Tech
+## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Organisational Capacity for Responsible Tech
 
 Building a government technology and data team capable of ensuring responsible tech outcomes requires a thoughtful approach to hiring practices, emphasizing a blend of technical skills, ethical considerations, and a commitment to public service.
 

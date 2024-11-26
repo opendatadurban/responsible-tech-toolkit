@@ -1,4 +1,5 @@
 ---
+icon: microsoft
 cover: .gitbook/assets/rtt-background-header.png
 coverY: 0
 layout:
@@ -19,7 +20,7 @@ layout:
 
 # Responsible Tech Toolkit V1.0
 
-The OCL **Responsible Tech Toolkit** aims to provide:
+### <img src=".gitbook/assets/icon-w-calendar.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> The OCL **Responsible Tech Toolkit** aims to provide:
 
 > ### _Practical guidance and tools to ensure the responsible creation and implementation of tech initiatives._
 

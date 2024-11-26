@@ -20,9 +20,9 @@ layout:
 
 # Principles
 
-These principles of responsible tech can act as a guiding checklist for designing, developing and deploying technology ethically and inclusively. For every aspect of what we do with technology, we have to consider the real-world impact, build for everyone, and use data responsibly. We also need to create secure systems, minimise environmental impact, and consider the societal implications of AI. By taking responsibility and fostering open communication, we can build tech for good.
+### What are responsible tech principles?
 
-#### What are responsible tech principles?
+Principles of responsible tech can act as a guiding checklist for designing, developing and deploying technology ethically and inclusively. For every aspect of what we do with technology, we have to consider the real-world impact, build for everyone, and use data responsibly. We also need to create secure systems, minimise environmental impact, and consider the societal implications of AI. By taking responsibility and fostering open communication, we can build tech for good.
 
 [(1) Stakeholder Engagement](1-stakeholder-engagement.md)
 
