@@ -1,6 +1,11 @@
 ---
 icon: sitemap
+cover: ../.gitbook/assets/rtt-bg-case.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (1) Case for Responsible Tech
 
-## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line">  **The Risk of Irresponsible Technology**
+## <img src="../.gitbook/assets/icon-w-alert.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line">  **The Risk of Irresponsible Technology**
 
 The trend of digitising government services and infrastructure offers potential benefits in efficiency and service delivery, but also introduces significant risks and challenges, particularly when the deployment of technology is not carefully managed or aligned with the needs and rights of diverse community users.
 

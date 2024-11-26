@@ -20,7 +20,7 @@ layout:
 
 # Governance
 
-### <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Key Governance Concepts
+### <img src="../.gitbook/assets/icon-governance.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Key Governance Concepts
 
 Irresponsible tech can harm communities and waste resources. Learn how to integrate responsible practices into data strategies, build tech teams with ethics in mind, and procure technology ethically. These guidelines explore how to leverage technology responsibly for _Key Governance Components_:
 

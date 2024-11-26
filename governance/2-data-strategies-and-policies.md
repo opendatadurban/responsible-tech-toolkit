@@ -1,6 +1,11 @@
 ---
 icon: sitemap
+cover: ../.gitbook/assets/rtt-bg-data-policies.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (2) Data Strategies and Policies
 
-## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Integrating Responsible Tech in Data Strategies & Policies
+## <img src="../.gitbook/assets/icon-w-cert.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Integrating Responsible Tech in Data Strategies & Policies
 
 Government Data Strategies and Policies, particularly at the municipal level, play a crucial role in shaping how technology and data are utilized to serve the public effectively and ethically. By embedding principles of responsibility into these strategies and policies, municipalities can ensure that technology serves as a tool for public good, enhancing services while safeguarding citizens' rights and data and the digital autonomy of the government on behalf of the citizens is protected.
 
