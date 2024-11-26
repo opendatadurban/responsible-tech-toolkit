@@ -1,3 +1,22 @@
+---
+icon: toolbox
+cover: ../.gitbook/assets/rtt-bg-initiate.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 # Responsible Tech Toolkit V1.0
 
 ### <img src=".gitbook/assets/icon-w-kit.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> The OCL **Responsible Tech Toolkit** aims to provide:
