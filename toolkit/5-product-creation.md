@@ -1,10 +1,19 @@
 ---
 icon: toolbox
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # (5) Product Creation
-
-Multi-select: (3) Design and Development
 
 ## Content and Product Creation stage
 

@@ -39,7 +39,7 @@ The risks associated with irresponsible technology deployment in urban developme
 
     *   **Case study: Sidewalk Labs in Toronto**
 
-        [Sidewalk Labs](https://en.wikipedia.org/wiki/Sidewalk\_Labs), a Google affiliate, proposed a high-tech urban development in Toronto that raised significant privacy and data governance concerns among citizens and privacy advocates. The extensive public backlash and feedback led to a more transparent dialogue about data collection, usage, and governance. The project ultimately was abandoned, but the discourse set a precedent for how community feedback can influence large-scale urban tech projects, emphasising the need for privacy protections and public participation in planning.
+        [Sidewalk Labs](https://en.wikipedia.org/wiki/Sidewalk_Labs), a Google affiliate, proposed a high-tech urban development in Toronto that raised significant privacy and data governance concerns among citizens and privacy advocates. The extensive public backlash and feedback led to a more transparent dialogue about data collection, usage, and governance. The project ultimately was abandoned, but the discourse set a precedent for how community feedback can influence large-scale urban tech projects, emphasising the need for privacy protections and public participation in planning.
 
 ### More examples:
 
@@ -62,11 +62,11 @@ The risks associated with irresponsible technology deployment in urban developme
         New York City established a [task force](https://www.nyc.gov/site/adstaskforce/index.page) to review automated (algorithmic) decision systems used by city agencies, focusing on fairness, accountability, and transparency. The task force sought public input to understand concerns about how these systems might affect residents, particularly in areas like policing, social services, and housing. This initiative highlighted the importance of public oversight in the use of AI and algorithms by the government, leading to [recommendation](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf)s for more transparent policies and practices.
     *   **Case study: Amsterdam and Helsinki Algorithm Registers**
 
-        Both cities have [launched public algorithm registers](https://ai-regulation.com/amsterdam-and-helsinki-launch-algorithm-and-ai-register/) that allow citizens to see how algorithms are used in municipal services. These registers include information on the algorithm’s purpose, the data it uses, and the control mechanisms in place to ensure fairness and transparency. This initiative, driven by public demand for transparency, helps demystify government use of algorithms and fosters trust.
+        Both cities have [launched public algorithm registers](https://ai-regulation.com/amsterdam-and-helsinki-launch-algorithm-and-ai-register/) that allow citizens to see how algorithms are used in municipal services. These registers include information on the algorithm’s purpose, the data it uses, and the control mechanisms in place to ensure fairness and transparency. This initiative, driven by public demand for transparency, helps demystify government use of algorithms and fosters trust. <mark style="color:red;">(please find these links)</mark>
 
-        Helsinki’s register <mark style="color:red;">(please find this link)</mark>
+        Helsinki’s register&#x20;
 
-        [Amsterdam’s register](https://www.notion.so/Gain-50-more-users-545a1ca8154d40809662c74d46027c09?pvs=21)
+        Amsterdam’s register
 *   **Environmental Monitoring and Land Use**
 
     Technologies for environmental monitoring and land use planning, such as satellite imagery and AI algorithms, can sometimes lead to unintended consequences. For instance, in developing countries, such technologies have been used to identify illegal constructions or encroachments, leading to evictions without considering the socio-economic impacts on affected communities, leading to further marginalisation and at times subsequent land occupations in even less suitable locations. A key lesson is that these tools should not replace local engagement.

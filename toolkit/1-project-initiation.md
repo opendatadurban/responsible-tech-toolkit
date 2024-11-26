@@ -41,7 +41,7 @@ _The process begins with a meeting to explore the project brief and understand t
 
 And remember, “[If you can avoid building it, don’t build it](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)”
 
-&#x20;\*\*Defining\*\*: Context and Clear Problem Framing
+### Defining: Context and Clear Problem Framing
 
 * **Key Actions**
   * **Conduct** a comprehensive needs assessment to understand the community's challenges and opportunities. This could involve primary or secondary qualitative and quantitative research methods, such as surveys, interviews, and data analysis.
@@ -53,7 +53,7 @@ And remember, “[If you can avoid building it, don’t build it](https://mitgov
 
     Remain open to findings that challenge initial assumptions about the problem or its solutions.
 
-&#x20;\*\*Engagement\*\*: Community and Stakeholders
+### &#x20;Engagement: Community and Stakeholders
 
 * **Key Actions**
   * **Stakeholder** mapping to identify and categorize stakeholders by their interest and influence on the project. Where appropriate, use digital platforms and social media to reach a broader audience and facilitate ongoing dialogue.
@@ -61,7 +61,7 @@ And remember, “[If you can avoid building it, don’t build it](https://mitgov
 
     Document and transparently share what was learned from community engagement activities. Use inclusive language and accessible formats to ensure broad participation.
 
-&#x20;\*\*Teaming\*\*: Establishing the Right Balance of Skills
+### &#x20;Teaming: Establishing the Right Balance of Skills
 
 * **Key Actions**
   * **Define** the skill sets and roles required for the project, emphasizing a balance of technical, ethical, design, and community engagement expertise.
@@ -76,7 +76,7 @@ And remember, “[If you can avoid building it, don’t build it](https://mitgov
   * Consider soft skills and cultural fit as much as technical skills.
   * Foster a team culture of continuous learning and ethical reflection.
 
-&#x20;\*\*Governance\*\*: Establish accountability and decision making roles and processes
+### Governance: Establish accountability and decision making roles and processes
 
 * **Key Actions**
   * **Develop** a governance framework that includes clear policies and procedures for ethical decision-making, data governance, and handling of concerns or breaches.
@@ -84,7 +84,7 @@ And remember, “[If you can avoid building it, don’t build it](https://mitgov
 * **Responsibility**
   * OCL Committee, with input from the Project Lead and legal/compliance advisors.
 * **Frameworks/Tools**
-  * Ethical decision-making frameworks, such as the [Markkula Center for Applied Ethics framework](https://www.cse.sc.edu/\~mgv/csce390f22/MarkkulaFramework.pdf). Use of project management tools that allow for transparent tracking of decisions and actions.
+  * Ethical decision-making frameworks, such as the [Markkula Center for Applied Ethics framework](https://www.cse.sc.edu/~mgv/csce390f22/MarkkulaFramework.pdf). Use of project management tools that allow for transparent tracking of decisions and actions.
 * **Tips**
   * Regularly review and update governance policies to reflect new insights, challenges, or changes in the project scope.
   * Clarify the role of the funders, City stakeholders, OCL and other stakeholders to identify and resolve ethical risks, harmful tech or waste

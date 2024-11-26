@@ -15,8 +15,6 @@ layout:
 
 # (7) The MREL Framework
 
-Multi-select: (3) Design and Development
-
 ## Monitoring, Reporting, Evaluating, Learning (MREL)
 
 The MREL framework is crucial for fostering responsible technology development and deployment, ensuring that the technology solutions are ethical, protect data privacy, and utilize public funds efficiently.

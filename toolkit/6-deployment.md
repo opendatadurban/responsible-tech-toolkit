@@ -1,10 +1,19 @@
 ---
 icon: toolbox
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # (6) Deployment
-
-Multi-select: (6) Deployment
 
 ## Finalising the project for a successful rollout
 

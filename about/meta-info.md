@@ -2,6 +2,20 @@
 icon: table-layout
 cover: ../.gitbook/assets/rtt-background-header.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Meta Info
@@ -20,6 +34,8 @@ Be part of the rise of responsible tech!
 
 **Version 1.0**
 
+* Moved over to Gitbook with Github integration
+* Created Glossary
 * Applied OCL branding
 
 **Version 0.9**
@@ -41,8 +57,3 @@ Be part of the rise of responsible tech!
   4. All cards: Icons with circle background.
 * **Locking pages**: Once development is done, the entire page can be ‘locked’ which would prevent editing and some of the unwanted behaviour, like the red outline on the navigation - if someone needs to edit, they can easily ‘unlock’ the page in the top right …-menu. Locking the page reduces the frustration of the text going into edit mode when one didn’t want to edit it.
 * **Navigation**: (Temporary) Current side-navigation not great for mobile view
-* Moved the duplicated pages out of the toolkit presentation, and placed them in the admin section
-
-Authorised administrators can access the admin page via this link: Admin
-
-⬅️ Previous: **Definitions** &#x20;
