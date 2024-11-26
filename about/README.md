@@ -26,5 +26,5 @@ This toolkit is anchored in the core ethos of Responsible Tech Principles, which
 
 Responsible technology aligns technological advancements with societal values, promotes trust and transparency, and mitigates potential harms.
 
-&#x20;<mark style="color:red;">\*If you encounter terminology that is new to you, you can search the\* \[Definitions page]</mark>
+&#x20;<mark style="color:red;">If you encounter terminology that is new to you, you can search the \[Definitions page]</mark>
 
