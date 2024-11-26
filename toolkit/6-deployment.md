@@ -45,7 +45,7 @@ Here are essential actions and considerations for a responsible deployment:
     Establish robust channels for feedback from users and community members, ensuring they have a voice in the ongoing development and improvement of the product. Tools like online forums, feedback surveys, and community meetings can be effective, as well as making accessible public dashboards, regular impact reports, and channels for raising new ideas, concerns or complaints. Additionally, empower users to monitor and control the use of their data, providing clear options for consent and data management.
 *   **Monitoring and Evaluation (M\&E) Framework**
 
-    Implement an [M\&E framework](https://www.notion.so/MREL-2b99ff2b90224b94b3fee543efa03330?pvs=21) to continuously assess the product's performance and its social, economic, and environmental impacts. This framework should include indicators for success and mechanisms for collecting and analyzing data on the product's effectiveness and any unintended consequences.
+    Implement an M\&E framework to continuously assess the product's performance and its social, economic, and environmental impacts. This framework should include indicators for success and mechanisms for collecting and analyzing data on the product's effectiveness and any unintended consequences.
 *   **Liability Protection Measures**
 
     Consider adopting insurance policies or creating terms of service that clearly define the scope of liability for the government or service provider. However, these measures should not absolve the entity of responsibility for due diligence and responsible management of the technology.
