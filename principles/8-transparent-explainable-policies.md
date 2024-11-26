@@ -20,7 +20,7 @@ layout:
 
 # (8) Transparent, explainable policies
 
-## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Be clear, be open**
+## <img src="../.gitbook/assets/icon-w-cert.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Be clear, be open**
 
 Communicate how your technology works, explain decision-making algorithms, and avoid opaque systems.
 

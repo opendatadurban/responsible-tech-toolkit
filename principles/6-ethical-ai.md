@@ -1,6 +1,11 @@
 ---
 icon: rainbow
+cover: ../.gitbook/assets/rtt-bg-ai.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (6) Ethical AI
 
-### <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Consider societal impact of AI**
+### <img src="../.gitbook/assets/icon-ai-w.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Consider societal impact of AI**
 
 Use AI for positive outcomes while considering the potential societal implications.
 
