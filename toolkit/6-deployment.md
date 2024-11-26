@@ -1,6 +1,11 @@
 ---
 icon: toolbox
+cover: ../.gitbook/assets/rtt-bg-launch.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (6) Deployment
 
-## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Finalising the project for a successful rollout
+## <img src="../.gitbook/assets/icon-w-launch.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Finalising the project for a successful rollout
 
 **Finalizing the project for launch and ensuring all elements are in place for a successful rollout**
 

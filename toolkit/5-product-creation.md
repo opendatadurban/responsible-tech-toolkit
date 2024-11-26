@@ -1,6 +1,11 @@
 ---
 icon: toolbox
+cover: ../.gitbook/assets/rtt-bg-product-creation.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (5) Product Creation
 
-## <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Content and Product Creation stage
+## <img src="../.gitbook/assets/icon-w-product.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Content and Product Creation stage
 
 In the **Content and Product Creation stage** of the product development lifecycle, teams are deeply engaged in the core work of building their technology solutions. To ensure responsible tech outcomes during this critical phase, it's essential to integrate the following actions:
 
