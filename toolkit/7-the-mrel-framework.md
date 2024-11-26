@@ -38,7 +38,7 @@ Here’s how to integrate these considerations into the MREL process:
 
     Data Protection Officer
 * **Tips**
-  * Incorporate [privacy by design](https://www.notion.so/Design-and-Development-6ee7f7a2eb7c4adfa5a128dca84b8154?pvs=21) principles in selecting monitoring tools.
+  * Incorporate [privacy by design](3.0-design-and-development-privacy.md) principles in selecting monitoring tools.
   * Regularly update KPIs to reflect evolving ethical standards and regulations.
 
 ### Reporting
