@@ -69,4 +69,4 @@ Responsible Data Strategies should include, among others:
     These cities have created [public-facing registers](https://ai-regulation.com/amsterdam-and-helsinki-launch-algorithm-and-ai-register/) that detail their use of AI systems, including the system’s purpose, data used, and the team responsible. This transparency initiative helps in oversight and public trust.
 *   **Toronto’s Digital Infrastructure Strategic Framework**
 
-    [Toronto’s plan](https://www.notion.so/Online-survey-design-for-city-practitioners-ce5012ef10244eb2a8ce56db41464725?pvs=21) emphasizes equity, privacy, and transparency in the digital infrastructure, setting a precedent for responsible municipal data strategies.
+    Toronto’s plan emphasizes equity, privacy, and transparency in the digital infrastructure, setting a precedent for responsible municipal data strategies.
