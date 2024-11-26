@@ -1,6 +1,6 @@
 ---
 icon: toolbox
-cover: ../.gitbook/assets/rtt-bg-initiate.png
+cover: .gitbook/assets/rtt-background-header.png
 coverY: 0
 layout:
   cover:
@@ -17,11 +17,12 @@ layout:
   pagination:
     visible: true
 ---
+
 # Responsible Tech Toolkit V1.0
 
 ### <img src=".gitbook/assets/icon-w-kit.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> The OCL **Responsible Tech Toolkit** aims to provide:
 
-> ### _Practical guidance and tools to ensure the responsible creation and implementation of tech initiatives._
+> #### _Practical guidance and tools to ensure the responsible creation and implementation of tech initiatives._
 
 ### **Build Tech for Good: Minimise Harm, Maximise Impact**
 
