@@ -20,9 +20,9 @@ layout:
 
 # Glossary
 
-### <img src="../.gitbook/assets/icon-w-calendar.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line">
+### <img src="../.gitbook/assets/icon-about.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Definitions and explainers&#x20;
 
-.... definitions are available ... to gain precise understanding of specific terms.&#x20;
+##
 
 ## Keyword
 

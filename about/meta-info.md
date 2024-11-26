@@ -20,7 +20,7 @@ layout:
 
 # Meta Info
 
-### <img src="../.gitbook/assets/icon-w-calendar.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Why This Toolkit Exists**
+### <img src="../.gitbook/assets/icon-about.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Why This Toolkit Exists**
 
 Technology is woven into the fabric of our lives, shaping everything from how we connect to how governments operate. But with great power comes great responsibility! That's why the Responsible Tech Toolkit was created.
 

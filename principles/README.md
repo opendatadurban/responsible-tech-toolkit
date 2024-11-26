@@ -20,7 +20,7 @@ layout:
 
 # Principles
 
-### What are responsible tech principles?
+### <img src="../.gitbook/assets/icon-principles.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> What are responsible tech principles?
 
 Principles of responsible tech can act as a guiding checklist for designing, developing and deploying technology ethically and inclusively. For every aspect of what we do with technology, we have to consider the real-world impact, build for everyone, and use data responsibly. We also need to create secure systems, minimise environmental impact, and consider the societal implications of AI. By taking responsibility and fostering open communication, we can build tech for good.
 

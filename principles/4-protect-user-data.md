@@ -1,6 +1,11 @@
 ---
 icon: rainbow
+cover: ../.gitbook/assets/rtt-bg-protect.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -15,7 +20,7 @@ layout:
 
 # (4) Protect User Data
 
-### <img src="../.gitbook/assets/icon-w-inclusive.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Strong security and responsible data collection**
+### <img src="../.gitbook/assets/icon-w-shield.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Strong security and responsible data collection**
 
 Employ strong security practices to safeguard user data and ensure responsible data collection and usage.
 
