@@ -30,12 +30,16 @@ The toolkit empowers individuals and teams to ask crucial questions throughout t
 
 Be part of the rise of responsible tech!
 
+**Authors**: Mardiya Siba Yahaya and other contributors from her team
+
+
+
 ### **Changelog**
 
 **Version 1.0**
 
 * Moved over to Gitbook with Github integration
-* Created Glossary
+* Static Definitions Page
 * Applied OCL branding
 
 **Version 0.9**
