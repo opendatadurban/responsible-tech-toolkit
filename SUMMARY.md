@@ -3,6 +3,7 @@
 * [Responsible Tech Toolkit V1.0](README.md)
 * [About](about/README.md)
   * [Meta Info](about/meta-info.md)
+  * [Definitions](about/definitions.md)
 * [Principles](principles/README.md)
   * [(1) Stakeholder Engagement](principles/1-stakeholder-engagement.md)
   * [(2) Design with the Most Marginalised](principles/2-design-with-the-most-marginalised.md)
