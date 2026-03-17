@@ -2,23 +2,13 @@
 icon: table-layout
 cover: ../.gitbook/assets/rtt-background-header.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Meta Info
+
+{% hint style="success" %}
+### <mark style="color:$tint;">This toolkit was developed through the Urban Resilience Programme with the support of the</mark> [<mark style="color:$tint;">Foreign, Commonwealth & Development Office (FCDO)</mark>](https://blogs.fcdo.gov.uk/)
+{% endhint %}
 
 ### <img src="../.gitbook/assets/icon-about.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Why This Toolkit Exists**
 
