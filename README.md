@@ -1,7 +1,8 @@
 ---
 icon: toolbox
-cover: .gitbook/assets/rtt-background-header.png
+cover: .gitbook/assets/RTT Cover Image.png
 coverY: 0
+coverHeight: 330
 ---
 
 # Responsible Tech Toolkit V1.0
