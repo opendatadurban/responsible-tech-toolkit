@@ -2,7 +2,7 @@
 icon: toolbox
 cover: .gitbook/assets/RTT Cover Image.png
 coverY: 0
-coverHeight: 330
+coverHeight: 265
 ---
 
 # Responsible Tech Toolkit V1.0
