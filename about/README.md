@@ -7,7 +7,7 @@ coverY: 0
 # About
 
 {% hint style="success" %}
-### <mark style="color:$tint;">This toolkit was developed through the Urban Resilience Programme with the support of the</mark> [<mark style="color:$tint;">Foreign, Commonwealth & Development Office (FCDO)</mark>](https://blogs.fcdo.gov.uk/)
+**This toolkit was developed through the Urban Resilience Programme with the support of the UK Government.**
 {% endhint %}
 
 ### <img src="../.gitbook/assets/icon-about.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> About the Responsible Tech Guidelines
