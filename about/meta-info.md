@@ -6,10 +6,6 @@ coverY: 0
 
 # Meta Info
 
-{% hint style="success" %}
-### <mark style="color:$tint;">This toolkit was developed through the Urban Resilience Programme with the support of the</mark> [<mark style="color:$tint;">Foreign, Commonwealth & Development Office (FCDO)</mark>](https://blogs.fcdo.gov.uk/)
-{% endhint %}
-
 ### <img src="../.gitbook/assets/icon-about.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Why This Toolkit Exists**
 
 Technology is woven into the fabric of our lives, shaping everything from how we connect to how governments operate. But with great power comes great responsibility! That's why the Responsible Tech Toolkit was created.
