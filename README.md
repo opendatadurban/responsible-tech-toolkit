@@ -2,7 +2,26 @@
 icon: toolbox
 cover: .gitbook/assets/RTT Cover Image.png
 coverY: 0
-coverHeight: 265
+coverHeight: 247
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Responsible Tech Toolkit V1.0
