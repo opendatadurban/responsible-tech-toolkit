@@ -8,6 +8,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -22,16 +23,20 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
-# Responsible Tech Toolkit V1.0
+# Responsible Tech Toolkit V2.0
 
-### <img src=".gitbook/assets/icon-w-kit.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> The **Responsible Tech Toolkit** aims to provide:
+Technology is woven into the fabric of our lives. It connects us to services, to solutions, and to each other. But it can also carry unintended consequences, raise ethical dilemmas, and deepen existing inequalities.
 
-> #### _Practical guidance and tools to ensure the responsible creation and implementation of tech initiatives._
+> **This toolkit offers a roadmap for avoiding those pitfalls.**
 
-### **Build Tech for Good: Minimise Harm, Maximise Impact**
+Built for individuals and organisations at every stage of the journey, it's a simple, practical guide that exposes our blindspots to help us build better technology.
 
-Welcome to the Responsible Technology Toolkit, a dynamic resource designed to evolve and adapt based on user feedback. This toolkit is specifically tailored for team members engaged in the development of civic and government technology solutions.
+Grounded in years of collective experience and proven best practice, this resource helps us all move toward a future where technology is designed equitably, minimises harm, and has authentic positive societal impact in Africa and beyond.
 
-This toolkit will be trialed against the use cases provided by the Open Cities Lab under the FCDO Urban Resilience Programme, ensuring its relevance and effectiveness in real-world scenarios.
+Let's take a look!&#x20;
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>About the toolkit</strong> </td><td>Introductory information about the purpose of the toolkit, who wrote it and why</td></tr><tr><td><strong>Responsible Technology Principles</strong> </td><td>Explore the 8 universal principles that guide the development and deployment of responsible technology </td></tr><tr><td>Step-by-step guide </td><td>Details into how you can implement these for yourself. </td></tr><tr><td><strong>Additional resources</strong> </td><td>A curated list of tools and guides to support the implementation of Responsible Technology Principles</td></tr></tbody></table>

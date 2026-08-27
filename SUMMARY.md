@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Responsible Tech Toolkit V1.0](README.md)
-* [About](about/README.md)
+* [Responsible Tech Toolkit V2.0](README.md)
+* [INTRODUCTION](about/README.md)
+  * [Why you need this toolkit](about/why-you-need-this-toolkit.md)
   * [Meta Info](about/meta-info.md)
   * [Definitions](about/definitions.md)
 * [Principles](principles/README.md)
