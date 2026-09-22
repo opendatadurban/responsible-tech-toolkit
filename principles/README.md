@@ -28,20 +28,4 @@ This toolkit is anchored in the Responsible Tech Principles, which serve as a co
 
 These principles should guide every stage of the technology lifecycle. &#x20;
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Question the problem before you build</td></tr><tr><td>Design explicitly for your users and their needs</td></tr><tr><td>Design with the most marginalised in mind</td></tr><tr><td>Use and present high-quality data</td></tr><tr><td>Use and present high-quality data</td></tr><tr><td>Minimise your ecological footprint</td></tr><tr><td>Prioritise fairness, non-discrimination and ethics throughout the pipeline</td></tr><tr><td>Take responsibility and be accountable</td></tr><tr><td>Be clear, be open, be transparent</td></tr></tbody></table>
-
-[(1) Stakeholder Engagement](1-stakeholder-engagement-1.md)
-
-[(2) Design with the Most Marginalised](2-design-with-the-most-marginalised.md)
-
-[(3) Data Quality and Clarity](3-data-quality-and-clarity.md)
-
-[(4) Protect User Data](4-protect-user-data.md)
-
-[(5) Sustainable Technology](5-sustainable-technology.md)
-
-[(6) Ethical AI](6-ethical-ai.md)
-
-[(7) Responsibility & Oversight](7-responsibility-and-oversight.md)
-
-[(8) Transparent, explainable policies](8-transparent-explainable-policies.md)
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Question the problem before you build</td><td><a href="1-stakeholder-engagement.md">1-stakeholder-engagement.md</a></td><td></td></tr><tr><td>Design explicitly for your users and their needs</td><td><a href="1-stakeholder-engagement-1.md">1-stakeholder-engagement-1.md</a></td><td></td></tr><tr><td>Design with the most marginalised in mind</td><td><a href="2-design-with-the-most-marginalised.md">2-design-with-the-most-marginalised.md</a></td><td></td></tr><tr><td>Use and present high-quality data</td><td><a href="3-data-quality-and-clarity.md">3-data-quality-and-clarity.md</a></td><td></td></tr><tr><td>Employ strong security practices to safeguard user data</td><td><a href="4-protect-user-data.md">4-protect-user-data.md</a></td><td></td></tr><tr><td>Minimise your ecological footprint</td><td><a href="5-sustainable-technology.md">5-sustainable-technology.md</a></td><td></td></tr><tr><td>Prioritise fairness, non-discrimination and ethics throughout the pipeline</td><td><a href="6-ethical-ai.md">6-ethical-ai.md</a></td><td></td></tr><tr><td>Take responsibility and be accountable</td><td><a href="7-responsibility-and-oversight.md">7-responsibility-and-oversight.md</a></td><td></td></tr></tbody></table>
