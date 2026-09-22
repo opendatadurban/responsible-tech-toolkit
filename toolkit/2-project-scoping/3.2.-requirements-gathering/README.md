@@ -1,7 +1,7 @@
 # 3.2. Requirements Gathering
 
-**Develop** — generate and test possible solutions
+Requirements gathering sits between scoping and design: it's where the problem, constraints, and stakeholder needs identified during Discovery are translated into a concrete, actionable set of requirements the build can be measured against. Done well, this stage prevents costly rework later.  Every requirement captured here, from functional needs to sustainability targets, becomes a checkpoint the team can return to throughout development. Treated as a formality, it leaves gaps that only surface once the build is already underway, when they're far more expensive to fix.
 
-* Ideation and ideation critique
-* Prototyping (low to high fidelity)
-* Iterative user testing
+This is the phase to generate and test possible ideas, prototyping (low to high fidelity) and iterative user testing.&#x20;
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Designing for inclusive high-quality data</strong></td><td><a href="designing-for-inclusive-high-quality-data.md">designing-for-inclusive-high-quality-data.md</a></td></tr><tr><td><strong>Designing for accessibility</strong></td><td><a href="designing-for-accessibility.md">designing-for-accessibility.md</a></td></tr><tr><td><strong>Designing for user privacy</strong> </td><td><a href="designing-for-user-privacy.md">designing-for-user-privacy.md</a></td></tr><tr><td><strong>Designing for user safety</strong></td><td><a href="designing-for-user-safety.md">designing-for-user-safety.md</a></td></tr><tr><td><strong>Designing for ecological sustainability</strong></td><td><a href="designing-for-ecological-sustainability.md">designing-for-ecological-sustainability.md</a></td></tr></tbody></table>
