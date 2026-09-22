@@ -1,28 +1,34 @@
 ---
 icon: toolbox
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# Toolkit
+# Production pipeline: Step-by-step guide
 
-Implement Responsible Tech practices at all Stages of Product Development with the OCL Responsible Tech Toolkit.
+The following section unpacks each phase of the technology production process in more detail. Each highlights questions to ask yourself and your team, resources to lean on when things are unclear and issues to consider as you're building your own product.
 
-[**(1) Project Initiation**](1-project-initiation.md)
+It gives a high-level breakdown of the standard design process. Please tailor it to your organisation's production pipeline understanding each principle should be applied at each step.&#x20;
 
-[**(2) Project Scoping**](2-project-scoping.md)
+If you have any questions, please reach out to us at info@opencitieslab.org. We'd love to support you!&#x20;
 
-[**(3.0) Design and Development (Privacy)**](3.0-design-and-development-privacy.md)
-
-[**(3.1) Design and Development (Safety)**](3.1-design-and-development-safety.md)
-
-[**(3.2) Design and Development (Accessibility)**](3.2-design-and-development-accessibility.md)
-
-[**(4.0) Research and Data Science (Quality, Interpretation)**](4.0-research-and-data-science-quality-interpretation.md)
-
-[**(4.1) Research and Data Science (Bias Mitigation)**](4.1-research-and-data-science-bias-mitigation.md)
-
-[**(5) Product Creation**](5-product-creation.md)
-
-[**(6) Deployment**](6-deployment.md)
-
-[**(7) The MREL Framework**](7-the-mrel-framework.md)
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Pre-inception</td><td><a href="1-project-initiation.md">1-project-initiation.md</a></td></tr><tr><td>Project inception </td><td><a href="1-project-initiation-1.md">1-project-initiation-1.md</a></td></tr><tr><td>Discovery </td><td></td></tr><tr><td>Development </td><td></td></tr><tr><td>Close-out</td><td></td></tr></tbody></table>
 

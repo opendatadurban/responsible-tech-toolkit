@@ -2,37 +2,53 @@
 icon: toolbox
 cover: ../.gitbook/assets/rtt-bg-product-creation.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# (5) Product Creation
+# (5) Product Development
 
-## <img src="../.gitbook/assets/icon-w-product.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> Content and Product Creation stage
+In this stage of product creation, teams are deeply engaged in the core work of building their technology solutions.&#x20;
 
-In the **Content and Product Creation stage** of the product development lifecycle, teams are deeply engaged in the core work of building their technology solutions. To ensure responsible tech outcomes during this critical phase, it's essential to integrate the following actions:
+{% hint style="info" icon="head-side-gear" %}
+Remember to hold tight to processes, governance, accountability, learning, feedback and review to ensure that your product upholds our [Responsible Tech Principles.](../principles/)&#x20;
+{% endhint %}
 
-*   **Prioritize Data Quality and Integrity**
+*   **Iterative testing with real users (continuously)**&#x20;
 
-    Ensure that the data used in your product is accurate, up-to-date, and sourced responsibly. Recognize the impact of data gaps, particularly how they can skew outcomes and disproportionately affect vulnerable and excluded groups. Implement rigorous data validation and cleaning processes to mitigate these risks.
-*   **Contextualize Data Queries**
+    Even in the thick of product development, maintain a loop of feedback with your stakeholders. Prioritise testing with people who reflect the actual and intended user base including those with lower digital literacy, disability, or limited connectivity throughout development. Have clear scheduled checkpoints for this. This ensures that the product remains aligned with user needs and expectations, and allows for the identification and correction of any issues related to inclusivity or accessibility before it becomes too intractable to fix.
 
-    When analyzing data, tightly align your questions with the specific problem you're addressing. This approach helps in avoiding biases that might arise from how questions are framed. By keeping the inquiry closely tied to the problem, you reduce the risk of introducing assumptions or biases that could lead to misleading conclusions or solutions.
-*   **Incorporate Stakeholder Feedback Continuously**
+    * **A/B Testing** and **User Testing Platforms** like UserTesting.com can facilitate comprehensive product testing.
 
-    Even in the thick of product development, maintain a loop of feedback with your stakeholders. This ensures that the product remains aligned with user needs and expectations, and allows for the identification and correction of any issues related to inclusivity or accessibility.
+{% hint style="info" icon="person-burst" %}
+When considering potential harm, it is important to ask: ”Is this an MVP-safe” idea? In other words, is there a scenario where an insufficiently developed product launched too widely can do more harm than the value of gathering feedback?
+{% endhint %}
 
-## **Case study: NYC Automated Decision Systems Task Force**
-
-New York City established a [task force](https://www.nyc.gov/site/adstaskforce/index.page) to review automated (algorithmic) decision systems used by city agencies, focusing on fairness, accountability, and transparency. The task force sought public input to understand concerns about how these systems might affect residents, particularly in areas like policing, social services, and housing. This initiative highlighted the importance of public oversight in the use of AI and algorithms by the government, leading to [recommendations](https://www.nyc.gov/assets/adstaskforce/downloads/pdf/ADS-Report-11192019.pdf) for more transparent policies and practices.
-
-*   **Implement Ethical AI Practices**
-
-    If your product uses AI, ensure that the algorithms are transparent and explainable. Regularly audit these systems for bias and fairness, and make adjustments as necessary. Ethical AI practices not only enhance trust in your product but also safeguard against harmful outcomes.
-*   **Adopt Data Security Measures**
-
-    Protecting user data is paramount. Implement strong data security protocols and ensure compliance with relevant data protection regulations. Educate your team on best practices for data security to prevent breaches and unauthorized access.
-*   **Evaluate Impact on Vulnerable Groups**
-
-    Specifically assess how your product impacts vulnerable or marginalized communities. This might involve conducting impact assessments or engaging directly with these groups for feedback. The goal is to ensure that the product does not inadvertently exacerbate existing inequalities or introduce new ones.
-*   **Sustainability Considerations**
-
-    Evaluate the environmental impact of your product, from development to deployment and beyond. Aim for sustainability in your technology choices, infrastructure, and operations to minimize your ecological footprint.
+* **Documentation as accountability**\
+  Keep a running record of key decisions and the reasoning behind them as the build progresses. This is particularly important when trade-offs are made between competing priorities like speed, cost, privacy, or accessibility. This not only protects institutional memory but also creates a transparent trail that supports responsible procurement, enables meaningful audit, and allows the organisation to explain and defend its decisions if questioned later. Documentation done at the point of decision is far more accurate and far less effort than documentation reconstructed after the fact.
+* **Guard against scope creep** \
+  Periodically check the build against the confirmed brief: is the team still solving the original problem, or has the solution quietly expanded beyond what was scoped? Build in regular scope check-ins, and treat any proposed expansion as a decision that needs the same scrutiny the original brief received.
+* **Continue to proactively undertake internal audits of risks** to ensure that adequate mitigations can be put in place, as needed.  &#x20;
+  * e.g. Algorithmic Impact Assessments (AIA) can help evaluate the potential impacts of automated decision-making systems.

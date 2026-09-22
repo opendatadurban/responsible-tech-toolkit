@@ -2,78 +2,79 @@
 icon: toolbox
 cover: ../.gitbook/assets/rtt-bg-initiate.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# (1) Project Initiation
+# (1) Pre-inception
 
-## <img src="../.gitbook/assets/icon-w-initiate.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> **Responsible Tech Approach for Project Initiation**
+#### Do we need to build it?&#x20;
 
-### **Set-up Meeting with Partner**
+Before we begin, the biggest question we need to ask ourselves is: What is the problem we are trying to solve? Is it genuinely something that technology can resolve? Or is it a process, policy, or resourcing problem in disguise? Are we reaching for a technical fix because it's cheaper and faster than the institutional work the problem actually needs?
 
-_The process begins with a meeting to explore the project brief and understand the partner's requirements._
+{% hint style="success" %}
+The mantra in this phase (and throughout Responsible Technology development in general) is “[If you can avoid building it, don’t build it](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)”
+{% endhint %}
 
-*   **Decision to Develop**
+A key resource to adequately interrogate and answer this question is: defining the problem statement. Get to the root cause of the issue. Dive deep. Be honest.&#x20;
 
-    Based on the initial connect, a decision is made whether to proceed with the project development.
-*   **UX and Development Briefing**
+Sometimes we're pushed by the client or funder to build something for its own sake. But this is the opportunity to properly and authentically consider the problem we're faced with solving.&#x20;
 
-    A detailed briefing is prepared, focusing on user experience (UX) and development requirements.
-*   **OCL Committee Review**
+{% hint style="info" icon="book-open-lines" %}
+Before defaulting to a technical solution, these three critiques are worth engaging:
 
-    The project brief is presented to the OCL Committee to ensure alignment with OCL values and strategy.
-*   **Project Approval**
+* **Evgeny Morozov,** [_**To Save Everything, Click Here**_](https://www.amazon.com/Save-Everything-Click-Here-Technological/dp/1610393708) — Morozov's concept of "technological solutionism" describes the tendency to reframe complex social problems as neat, computable ones an app can fix thereby bypassing the harder political, economic, and structural work that real change requires.&#x20;
+* **Kentaro Toyama,** [_**Geek Heresy**_](https://geekheresy.org/) — Toyama's "Law of Amplification" argues technology can only amplify existing human intent and institutional capacity, not substitute for it. A funded app is no replacement for a motivated teacher or a functioning clinic. But cheap digital tools are often chosen over harder, costlier institutional investment precisely because they're cheap.
+* **Critiques of the venture-backed "scale" model** (e.g. writing from Lizzie O'Shea and Tressie McMillan Cottom) — argues that software's zero-marginal-cost logic favours apps over physical infrastructure like schools and clinics, since the latter can't scale the same way. This can lead teams to measure downloads or screen time instead of the real outcomes technology was meant to improve.
+{% endhint %}
 
-    Upon approval, the project moves forward with scoping, and a Project Lead and Project Custodian are appointed.
+***
 
-And remember, “[If you can avoid building it, don’t build it](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)”
+#### How can we support the team to do this work?&#x20;
 
-### Defining: Context and Clear Problem Framing
+Another key lever in your toolbox (before even beginning to think about new projects or products) is the long-term work of building organisational capacity to take on and implement responsible technology.
 
-* **Key Actions**
-  * **Conduct** a comprehensive needs assessment to understand the community's challenges and opportunities. This could involve primary or secondary qualitative and quantitative research methods, such as surveys, interviews, and data analysis.
-  * **Develop** a problem statement that clearly articulates the issue being addressed, avoiding assumptions about technology solutions from the outset.
-*   **Responsibility**
+This requires a thoughtful approach to hiring, emphasising a blend of technical skill, ethical grounding, and commitment to public service. The following are activities to support your organisation on its journey to building the internal capabilities needed to advance responsible technology principles.
 
-    Project Lead, in collaboration with a multidisciplinary team including social scientists, data analysts, and community liaison officers.
-*   **Tips**
+**For current staff:**
 
-    Remain open to findings that challenge initial assumptions about the problem or its solutions.
+* **Offer ethics training.** Implement mandatory training on data ethics, privacy law, and responsible tech practices for all employees regardless of their role in technology projects.
+* **Create a culture of responsibility.** Encourage a workplace culture where ethical considerations are discussed openly and decisions are made transparently.
+* **Invest in continuous learning.** Given how quickly technology evolves, support staff to stay abreast of developments in technology ethics, data protection, and responsible innovation.
+* **Build responsibility into existing roles.** Include clear duties that give staff a clear line of sight from their individual tasks to how those tasks support responsible tech across the organisation.
 
-### &#x20;Engagement: Community and Stakeholders
+{% hint style="info" icon="calendar-check" %}
+For a full list of potential roles and responsibilities to prioritise responsible tech within your organisation, please see this [resource](../governance/3-organisational-capacity.md).&#x20;
+{% endhint %}
 
-* **Key Actions**
-  * **Stakeholder** mapping to identify and categorize stakeholders by their interest and influence on the project. Where appropriate, use digital platforms and social media to reach a broader audience and facilitate ongoing dialogue.
-*   **Tips**
+**Good practices for hiring:**
 
-    Document and transparently share what was learned from community engagement activities. Use inclusive language and accessible formats to ensure broad participation.
+* **Support diverse and inclusive hiring practices.** Prioritise diversity to bring a wide range of perspectives, backgrounds, and experiences into the organisation. This supports more innovative solutions and helps ensure technology deployments consider the needs of all community members.
+* **Commit to those trained in ethics and public interest technology training.** Look for candidates with training or demonstrated interest in ethics, public interest technology, and responsible innovation through formal education, certifications, or relevant workshops and seminars.
+* **Keep an eye out for interdisciplinary skills.** Seek candidates whose skills span technology, social sciences, and the humanities. This broader knowledge base supports understanding of technology's societal impacts and the design of equitable solutions. Teams should include UX design and community engagement specialists, alongside people who understand urban development and municipal systems as well as the technology sector itself.
 
-### &#x20;Teaming: Establishing the Right Balance of Skills
-
-* **Key Actions**
-  * **Define** the skill sets and roles required for the project, emphasizing a balance of technical, ethical, design, and community engagement expertise.
-  * **Recruit** team members who not only possess the necessary technical skills but also demonstrate a commitment to responsible technology and public interest values.
-*   **Responsibility**
-
-    Project Lead, with support from HR and specialized advisors (e.g., ethics advisor).
-* **Frameworks/Tools**
-  * Skills matrix to map out required skills against team members' competencies.
-  * Diversity and inclusion checklists to guide recruitment and team composition
-* **Tips**
-  * Consider soft skills and cultural fit as much as technical skills.
-  * Foster a team culture of continuous learning and ethical reflection.
-
-### Governance: Establish accountability and decision making roles and processes
-
-* **Key Actions**
-  * **Develop** a governance framework that includes clear policies and procedures for ethical decision-making, data governance, and handling of concerns or breaches.
-  * **Establish** a reporting mechanism for team members and stakeholders to raise ethical concerns or issues related to technology misuse or unintended consequences.
-* **Responsibility**
-  * OCL Committee, with input from the Project Lead and legal/compliance advisors.
-* **Frameworks/Tools**
-  * Ethical decision-making frameworks, such as the [Markkula Center for Applied Ethics framework](https://www.cse.sc.edu/~mgv/csce390f22/MarkkulaFramework.pdf). Use of project management tools that allow for transparent tracking of decisions and actions.
-* **Tips**
-  * Regularly review and update governance policies to reflect new insights, challenges, or changes in the project scope.
-  * Clarify the role of the funders, City stakeholders, OCL and other stakeholders to identify and resolve ethical risks, harmful tech or waste
-  * Include reference to safeguarding policies, Theory of Change and GESI framework
-  * Identify of the project requires any specific or unique guardrails due to the nature of of the problem, data or vulnerability of users or stakeholders
-  * Promote a culture of openness and accountability, where raising concerns is encouraged and valued.
+{% hint style="info" icon="book-open-lines" %}
+[Reflections from The Engine Room](https://www.theengineroom.org/diversity-is-a-competency/) around their approach to improving organisational diversity.
+{% endhint %}

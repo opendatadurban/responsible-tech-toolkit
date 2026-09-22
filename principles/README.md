@@ -1,14 +1,36 @@
 ---
 icon: rainbow
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Principles
 
-### <img src="../.gitbook/assets/icon-principles.png" alt="https://www.notion.so/icons/forward_lightgray.svg" data-size="line"> What are responsible tech principles?
+This toolkit is anchored in the Responsible Tech Principles, which serve as a compass for developing and deploying technology that safeguards users and prioritises impact. These principles emphasise the importance of engaging with stakeholders to ensure technology meets the needs of its users, safeguarding data security to protect personal and sensitive information, and upholding ethical standards in data analysis and artificial intelligence to minimise bias and advance fairness.
 
-Principles of responsible tech can act as a guiding checklist for designing, developing and deploying technology ethically and inclusively. For every aspect of what we do with technology, we have to consider the real-world impact, build for everyone, and use data responsibly. We also need to create secure systems, minimise environmental impact, and consider the societal implications of AI. By taking responsibility and fostering open communication, we can build tech for good.
+These principles should guide every stage of the technology lifecycle. &#x20;
 
-[(1) Stakeholder Engagement](1-stakeholder-engagement.md)
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Question the problem before you build</td></tr><tr><td>Design explicitly for your users and their needs</td></tr><tr><td>Design with the most marginalised in mind</td></tr><tr><td>Use and present high-quality data</td></tr><tr><td>Use and present high-quality data</td></tr><tr><td>Minimise your ecological footprint</td></tr><tr><td>Prioritise fairness, non-discrimination and ethics throughout the pipeline</td></tr><tr><td>Take responsibility and be accountable</td></tr><tr><td>Be clear, be open, be transparent</td></tr></tbody></table>
+
+[(1) Stakeholder Engagement](1-stakeholder-engagement-1.md)
 
 [(2) Design with the Most Marginalised](2-design-with-the-most-marginalised.md)
 
