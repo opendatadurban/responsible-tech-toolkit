@@ -79,7 +79,7 @@ Consider soft skills and cultural fit as much as technical skills in recruitment
 * Establish a reporting mechanism for team members and stakeholders to raise ethical concerns or issues related to technology misuse or unintended consequences. This could include whistleblowing mechanisms, if needed.&#x20;
 * Where necessary, establish cross-sector advisory boards or review panels that can strengthen the oversight and monitoring process.
 * Clarify the role of the funders, partners and other stakeholders to identify and resolve ethical risks, harmful tech or waste
-* <mark style="background-color:$primary;">Develop Theories of Change and GESI frameworks -</mark> <mark style="background-color:$success;">Conduct GESI Scorecards: Regularly review product features to identify potential to advance gender and social inclusion considerations, or identify risks of exclusion of specific groups.</mark>
+* Develop Theories of Change and GESI frameworks that you regularly review to identify potential to advance gender and social inclusion considerations, or identify risks of exclusion of specific groups.
 * Develop KPIs focused on inclusivity, data privacy, value for money and ethical use of technology.
 * **Adopt and Enforce Data Security Standards:** Implement standards such as ISO/IEC 27001 to manage and protect digital information.
 
@@ -87,6 +87,7 @@ Consider soft skills and cultural fit as much as technical skills in recruitment
 - Use project management tools to embed transparent tracking of decisions and actions.
 - Regularly review and update governance policies to reflect new insights, challenges, or changes in the project scope.
 - Promote a culture of openness and accountability, where raising concerns is encouraged and valued.
+- Use a decision-making framework to keep ethical reasoning consistent. A structured framework (e.g. [Markkula Center for Applied Ethics framework](https://www.cse.sc.edu/~mgv/csce390f22/MarkkulaFramework.pdf)) ensures ethical trade-offs are reasoned through the same way each time, not case-by-case.
 {% endhint %}
 {% endstep %}
 
@@ -96,6 +97,8 @@ Consider soft skills and cultural fit as much as technical skills in recruitment
 Most project risk assessments focus on project-specific risks such as delivery challenges or running over budget. In this assessment, specific attention must also be paid to systematically evaluate the potential ethical challenges of the project, covering aspects such as data privacy, equity, and potential harm to individuals or communities.
 
 The point is to anticipate possible misuse, failure modes, and unintended consequences before deployment, rather than reacting after the fact. This spans a wide range of potential issues from physical safety (e.g. autonomous vehicles) to psychological harm (e.g. social media and mental health) to societal-scale risks.
+
+Also remember to detail the various risk levels and threat models for different user and beneficiary types of your product. Risk is not evenly distributed, but you have to design with the person with the highest risk. In an intersectional framework, you may categories users and beneficiaries using: Age, gender, family configuration, geographic location, sexuality, race, disability, ethnicity, educational background, language, economic status, and sustainability
 
 Steps:&#x20;
 
@@ -125,7 +128,12 @@ Share these findings with all stakeholders and assess if and how they can be imp
 
 </details>
 
-2. Evaluate their likelihood and impact.
+2. Evaluate their likelihood and impact.&#x20;
+
+{% hint style="info" icon="book-open-lines" %}
+The Trust and Safety Partnership developed this framework for assessing and evaluating these 35 best practices for online platforms to incorporate to keep users of digital services safe from abuse. The framework can be used to develop robust assessment processes to gauge to what degree digital platforms are following these best practices.[ Read more here.https://dtspartnership.org/wp-content/uploads/2021/12/DTSP\_Safe\_Framework.pdf](https://dtspartnership.org/wp-content/uploads/2021/12/DTSP_Safe_Framework.pdf)&#x20;
+{% endhint %}
+
 3. Propose mitigation strategies
 
 {% hint style="info" icon="lightbulb-exclamation-on" %}
@@ -137,101 +145,41 @@ Trustable has developed an extensive list of mitigation ideas mapped against pot
 {% hint style="info" %}
 Tip: Use collaborative documentation platforms to share and discuss the findings.
 {% endhint %}
-
-
-
-#### &#x20;An Intersectional Framework to Assess Risk and Threat Models
-
-* Key actions\
-  Detail the various risk levels and threat models for different user and beneficiary types of your product. In an intersectional framework, you may categories users and beneficiaries using: Age, gender, family configuration, geographic location, sexuality, race, disability, ethnicity, educational background, language, economic status, and sustainability\
-  <mark style="background-color:$danger;">Risk is not evenly distributed ,but you have to design with the person with the highest risk.</mark>&#x20;
-* Resource? The Trust and Safety Partnership developed this framework for assessing and evaluating these 35 best practices for online platforms to incorporate to keep users of digital services safe from abuse. The framework can be used to develop robust assessment processes to gauge to what degree digital platforms are following these best practices.[ Read more here.https://dtspartnership.org/wp-content/uploads/2021/12/DTSP\_Safe\_Framework.pdf](https://dtspartnership.org/wp-content/uploads/2021/12/DTSP_Safe_Framework.pdf)&#x20;
 {% endstep %}
 
 {% step %}
 ### Co-creating Theories of Change and Indicators of Success
 
+Theories of Change serve as a key visioning tools to align project teams and other stakeholders. As far as possible, build the theory of change with stakeholders. Map how planned activities are expected to lead to outcomes and impact. By including communities and partners, you have a greater chance of success and institutionalisation further down the road.&#x20;
 
+1. Host workshops bringing together target communities, domain experts, and project partners to define the core problem and vision.
+2. Map the backward logic i.e. Start with long-term Impact, work backward to necessary Outcomes, then define immediate Outputs, and map required Activities. Be sure to include clear definitions of each.&#x20;
+3. Define Indicators of Success: Collaboratively draft quantitative and qualitative metrics for each outcome, ensuring they reflect community priorities rather than internal team assumptions.
+4. Validate assumptions and risks: Identify implicit assumptions (e.g., "users have reliable internet access") and co-design risk mitigation strategies with stakeholders.
 {% endstep %}
 
 {% step %}
 ### Embedding learnings in the project process&#x20;
 
+#### **Monitoring**&#x20;
 
+* Track performance against specific indicators for data privacy, inclusivity, accessibility, public value, and responsible technology usage.
+* Hold regular retrospectives focused specifically on ethical risks, team assumptions, and unintended consequences observed during building.
+* Maintain an open Ethical Decision Log recording key technical and design choices, trade-offs evaluated, and reasons for final decisions.
+
+#### Evaluation
+
+* **Ethical Impact Assessment:** Evaluate the social and ethical impact of the product, focusing on potential harms or exclusions. _This step_ can be complicated by the multiple legislative mandates of government, which can at times come into conflict with one another - such as the mandate to protect property, and the mandate to protect data rights, and the mandate to provide services and shelter when dealing with informal settlements data for use in either improved planning and service delivery, or evictions. A rights-based approach focusing on the data producer is helpful: ensure that their right to consent to how their data is used has been protected. Secondly, ensure that the legislative hierarchy of rights is being honoured when assessing potential costs and benefits or benefits and harms of a technology solution (for example, Constitutional rights are superior to by-laws).
+* **Cost-Benefit Analysis (CBAs):** Evaluate the efficient use of public funds in relation to the ethical and social benefits of the technology. ⚠️ However, this assessment should not be done in isolation of other assessments or deliberations, as CBAs have limited ability to capture all costs and benefits, and in particular have limited ability to capture the distributional impacts of costs and benefits and may therefor skew decisions towards specific groups.
+
+#### **Learning**&#x20;
+
+* Continually update team documentation, standards and policies, onboarding materials, and operational guidelines based on real-world learnings to refine future project cycles.
+* Establish Integrated MREL Frameworks and them from day one. Continuously gather data against rights-based metrics and feed insights back into product iterations rather than running ad-hoc post-launch reviews.
+* Synthesise key insights, ethical dilemmas, and lessons learned into accessible case studies or open post-mortems to inform the wider tech community.
+
+{% hint style="info" icon="megaphone" %}
+Include diverse perspectives in the evaluation process to uncover potential biases and harms.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
-
-* Ethical decision-making frameworks, such as the [Markkula Center for Applied Ethics framework](https://www.cse.sc.edu/~mgv/csce390f22/MarkkulaFramework.pdf). Use of project management tools that allow for transparent tracking of <mark style="background-color:$warning;">decisions and actions.</mark>
-*
-
-    #### Ethical Impact Assessment (EIA)
-
-    Conduct an Ethical Impact Assessment to systematically evaluate the ethical implications of the project. This should cover aspects like data privacy, equity, and potential harm to individuals or communities.
-
-    * **Responsibility**: Conducted by ethics advisors, with input from the entire project team. Tools: Utilize EIA frameworks and checklists to guide the assessment.
-    * **Steps**: Identify ethical risks, evaluate their likelihood and impact, and propose mitigation strategies. Engage with stakeholders to validate and refine the assessment. At this stage it may be useful to take the team through a tool such as [https://responsibletech.se/tool.php#firstbatch](https://responsibletech.se/tool.php#firstbatch)
-
-## Monitoring, Reporting, Evaluating, Learning (MREL)
-
-The MREL framework is crucial for fostering responsible technology development and deployment, ensuring that the technology solutions are ethical, protect data privacy, and utilize public funds efficiently.
-
-Here’s how to integrate these considerations into the MREL process:
-
-### Monitoring
-
-* **Action Steps**
-  * **Identify Ethical KPIs:** Develop KPIs focused on inclusivity, data privacy, value for money and ethical use of technology.
-  * **Implement Privacy-Focused Monitoring Tools:** Use tools that respect user privacy while collecting essential data for performance monitoring.
-  * **Conduct GESI Scorecards:** Regularly review product features to identify potential to advance gender and social inclusion considerations, or identify risks of exclusion of specific groups.
-*   **Responsible Roles**
-
-    Project Manager
-
-    Data Protection Officer
-* **Tips**
-  * Incorporate [privacy by design](/broken/pages/iT84HWNT6I85kP6G9H1Y) principles in selecting monitoring tools.
-  * Regularly update KPIs to reflect evolving ethical standards and regulations.
-
-### Reporting
-
-* **Action Steps**
-  * **Incorporate Ethics in Reporting:** Highlight efforts and measures taken to ensure inclusivity, data privacy, and ethical considerations in regular reports.
-  * **Consider Transparent Reporting:** Open reports to the public for transparency on key decisions, spend, and progress.
-  * **Document Ethical Considerations:** Keep detailed records of decisions made to address ethical concerns, including stakeholder feedback.
-  * **Transparency Reports:** Publish transparency reports detailing data usage, privacy measures, and inclusivity efforts.
-* **Responsible roles**
-  * Data Protection Officer
-  * Community Engagement Specialist
-* **Tips**
-  * Use clear, non-technical language to enhance understanding among all stakeholders.
-  * Engage with external ethics reviewers for report validation.
-
-### Evaluation
-
-* **Action Steps**
-  * **Ethical Impact Assessment:** Evaluate the social and ethical impact of the product, focusing on potential harms or exclusions. _This step_ can be complicated by the multiple legislative mandates of government, which can at times come into conflict with one another - such as the mandate to protect property, and the mandate to protect data rights, and the mandate to provide services and shelter when dealing with informal settlements data for use in either improved planning and service delivery, or evictions. A rights-based approach focusing on the data producer is helpful: ensure that their right to consent to how their data is used has been protected. Secondly, ensure that the legislative hierarchy of rights is being honoured when assessing potential costs and benefits or benefits and harms of a technology solution (for example, Constitutional rights are superior to by-laws).
-  * **Data Privacy Compliance Check:** Regularly review compliance with data protection laws and ethical guidelines.
-  * **Cost-Benefit Analysis (CBAs):** Evaluate the efficient use of public funds in relation to the ethical and social benefits of the technology. ⚠️ However, this assessment should not be done in isolation of other assessments or deliberations, as CBAs have limited ability to capture all costs and benefits, and in particular have limited ability to capture the distributional impacts of costs and benefits and may therefor skew decisions towards specific groups.
-*   **Responsible roles**
-
-    Ethics Committee
-
-    Chief Data Officer
-* **Tips**
-  * Include diverse perspectives in the evaluation process to uncover potential biases and harms.
-  * Utilize ethical frameworks and impact assessment tools designed for technology evaluation.
-
-### Learning
-
-* **Action Steps**
-  * **Integrate Feedback Mechanisms:** Establish clear channels for users and affected groups to provide feedback on ethical concerns and inclusivity.
-  * **Conduct Ethical Review Sessions:** Regularly review project outcomes and processes to identify ethical learnings and improvements.
-  * **Update Ethical Guidelines:** Revise internal guidelines and documentation based on learnings to improve future projects.
-*   **Responsible roles**
-
-    Entire Team
-
-    With leadership from the Chief Technology Officer
-* **Tips**
-  * Foster a culture where ethical considerations are discussed openly and integrated into daily work.
-  * Document and share learnings widely to promote ethical practices across the industry.
